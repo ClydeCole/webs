@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fac4d243bd2ef09a","x":-340,"y":0,"width":250,"height":60,"type":"text","text":"畫面"},
+		{"id":"48a7109ed2f2fcde","x":-340,"y":-180,"width":250,"height":60,"type":"text","text":"筆記"}
+	],
+	"edges":[
+		{"id":"9c23822e65fb4a2d","fromNode":"48a7109ed2f2fcde","fromSide":"bottom","toNode":"fac4d243bd2ef09a","toSide":"top","label":"聯想"}
+	]
+}

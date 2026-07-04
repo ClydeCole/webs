@@ -1,0 +1,22 @@
+/* 自定義字體名稱和路徑 */
+@font-face {
+    font-family: 'MapleMono'; /* 字體名稱 */
+    src: url('font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 應用到Docsify 的各個元素 */
+body {
+    font-family: 'MapleMono', sans-serif !important;
+}
+
+/* 代碼塊與標題字體 */
+.markdown-section h1, .markdown-section h2, .markdown-section h3 {
+    font-family: 'MapleMono', sans-serif;
+}
+
+/* 檢索框 */
+input, textarea, button {
+    font-family: 'MapleMono', sans-serif !important;
+}

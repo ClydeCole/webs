@@ -1,0 +1,12 @@
+/* 針對側邊欄中沒有超連結的列表項目（標題） */
+.sidebar-nav li:not(a) {
+    color: #848484 !important;
+    /* 防止選中文字 */
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none;     /* IE 10+ */
+    user-select: none;         /* 標準語法 */
+
+    /* 讓鼠標經過時不要顯示 I-beam (文本輸入) 指標，改為普通箭頭 */
+    cursor: pointer;
+}
+
