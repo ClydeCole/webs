@@ -48,4 +48,5 @@
 Arch Linux
 
 拒絕windows臃腫 擁抱Linux 自由  
+告别windows蓝屏 畅享Linux 轻盈  
 ![My Skills](https://skillicons.dev/icons?i=bash,py,linux,arch)
